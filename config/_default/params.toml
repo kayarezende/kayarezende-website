@@ -28,7 +28,7 @@ logo = ""
 
 [homepage]
   layout = "profile" # valid options: page, profile, custom
-  showRecent = false
+  showRecent = true
 
 [article]
   showDate = true
@@ -43,7 +43,7 @@ logo = ""
   showPagination = true
   invertPagination = false
   showReadingTime = true
-  showTableOfContents = false
+  showTableOfContents = true
   showTaxonomies = false
   showWordCount = false
   showComments = false

@@ -5,4 +5,6 @@ draft: false
 description: ""
 ---
 
-[Link to Google](https://www.google.com)
+## Experimental Technology I'm working on currently:
+
+- Stable Diffusion AI
