@@ -2,7 +2,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/getting-started/
 
-baseURL = "https://spazadaza.github.io/kayarezende.github.io/"
+baseURL = "https://kayarezende.com/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
