@@ -32,7 +32,7 @@
   pageRef = "resume"
   weight = 40
 
-[[consult]]
+[[main]]
   name = "Consultation"
   pageRef = "consultation"
   weight = 50
