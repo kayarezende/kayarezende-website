@@ -32,6 +32,11 @@
   pageRef = "resume"
   weight = 40
 
+[[consult]]
+  name = "Consultation"
+  pageRef = "consultation"
+  weight = 50
+
 
 
 # -- Footer Menu --
