@@ -1,7 +1,7 @@
 ---
 title: "FTX and Alameda Research"
-date: 2022-11-15T21:37:32+10:30
-draft: False
+date: 2022-11-15T21:22:20+10:30
+draft: false
 description: "FTX and Alameda Research"
 ---
 
@@ -27,5 +27,3 @@ But that was it, after that they had no more funds to send out to clients.
 Now if this occured with a major bank like JP Morgan the Central Bank aka the FED would step in and just print some more cash to bail the bank out - like we saw in 2009 with multiple banks.
 This did not occur as how can you print more cryptocurrency?
 The whole point of cryptocurrency is that there is a finite reserve of it which drives price action and scarity of the asset.
-
----
