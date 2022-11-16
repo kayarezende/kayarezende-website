@@ -5,6 +5,10 @@ draft: false
 description: ""
 ---
 
-## Experimental Technology I'm working on currently:
+## Technology I'm building on and expanding my knowledge in:
 
+- Moodle Online Cyber Security Learning platform
+- Smartcontacts 
+- CFDs
+- AWS SaaS applications
 - Stable Diffusion AI

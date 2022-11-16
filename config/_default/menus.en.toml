@@ -33,7 +33,7 @@
   weight = 40
 
 [[main]]
-  name = "Consultation"
+  name = "Book Consultation"
   pageRef = "consultation"
   weight = 50
 

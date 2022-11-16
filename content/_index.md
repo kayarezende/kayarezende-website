@@ -9,13 +9,7 @@ cascade:
 ---
 
 {{< lead >}}
-
+Read my blog, check out my socials, or book a consult.
 {{< /lead >}}
-
-An enthusiast, dedicated, analytical, and acumen cyber security professional who is competent in various technologies. 
-
-Over 5 years of professional experience with cloud infrastructure, information security and balancing security initiatives to external risks and business operations.
-
-In my blog you will find me covering multiple emerging information technology topics; cyber security, cryptocurrency and decentralised finance.
-
+[Book a Consult](https://calendly.com/kayarezende-consult/30min)
 ---

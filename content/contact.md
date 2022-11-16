@@ -4,4 +4,5 @@ title: Contact
 permalink: /contact/
 ---
 
-## Email me: kayarezende@gmail.com
+## Email me: contact@kayarezende.com
+
