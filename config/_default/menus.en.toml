@@ -37,6 +37,10 @@
   pageRef = "consultation"
   weight = 50
 
+[[main]]
+  name = "Join"
+  pageRef = "join"
+  weight = 60
 
 
 # -- Footer Menu --
