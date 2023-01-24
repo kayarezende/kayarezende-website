@@ -4,7 +4,7 @@ date: 2023-01-24T14:32:05+10:30
 draft: false
 description: "AI uses WIFI signals to track body positions"
 tags: ["AI"]
- 
+thumbnail: "AITracksyouusingWIFI\thumb.jpg"
 
 ---
 
