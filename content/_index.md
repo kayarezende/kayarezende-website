@@ -63,7 +63,6 @@ Button
 }
 </style>
 
-
 {{< lead >}}
 **Read my blog, check out my socials, or book a consult.**
 {{< /lead >}}

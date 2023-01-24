@@ -2,8 +2,10 @@
 title: "AI Tracks you using WIFI"
 date: 2023-01-24T14:32:05+10:30
 draft: false
-description: ""
+description: "AI uses WIFI signals to track body positions"
 tags: ["AI"]
+ 
+
 ---
 
 <span style="color:#00FFFF">We now have the technology, to track where you are in your own home, using WIFI signals.</span>
