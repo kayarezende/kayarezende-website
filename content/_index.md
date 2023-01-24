@@ -65,7 +65,7 @@ Button
 
 
 {{< lead >}}
-Read my blog, check out my socials, or book a consult.
+**Read my blog, check out my socials, or book a consult.**
 {{< /lead >}}
 <!-- Calendly link widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
