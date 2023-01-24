@@ -4,4 +4,4 @@ title: Contact
 permalink: /contact/
 ---
 
-## Email me: contact@kayarezende.com
+kaya@pursuecybersecurity.com
