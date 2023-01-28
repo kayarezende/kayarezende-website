@@ -85,6 +85,7 @@ Button
     font:14px Helvetica,Arial,sans-serif;
     width:500;
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
   }
   #subscribe-button {
@@ -93,6 +94,7 @@ Button
   @media (max-width: 600px) {
   input {
     width: 100%;
+    flex-wrap: wrap;
   }
 }
 	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
