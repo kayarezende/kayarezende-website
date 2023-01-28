@@ -79,7 +79,22 @@ Button
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#FFFFF; clear:left; font:14px Helvetica,Arial,sans-serif;  width:500px;}
+	#mc_embed_signup .clear.foot {
+    background:#FFFFF;
+    clear:left;
+    font:14px Helvetica,Arial,sans-serif;
+    width:500;
+    display: flex;
+    justify-content: center;
+  }
+  #subscribe-button {
+    background-color: red !important;
+  }
+  @media (max-width: 600px) {
+  input {
+    width: 100%;
+  }
+}
 	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
@@ -114,7 +129,7 @@ Button
     </div>
         <div class="optionalParent">
             <div class="clear foot">
-                <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+                <input type="submit" value="Subscribe" name="subscribe" id="subscribe-button" class="button">
                 <p class="brandingLogo"><a href="http://eepurl.com/iemkYH" title="Mailchimp - email marketing made easy and fun"></a></p>
             </div>
         </div>
