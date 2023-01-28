@@ -15,7 +15,7 @@ enableCodeCopy = false
 # mainSections = ["section1", "section2"]
 robots = "all"
 
-headerlogo = "/assets/profile_picture.png"
+logo = ""
 
 [header]
   layout = "basic" # valid options: basic, hamburger, custom
@@ -35,7 +35,7 @@ headerlogo = "/assets/profile_picture.png"
   showDateUpdated = false
   showAuthor = true
   showBreadcrumbs = false
-  showDraftLabel = true
+  showDraftLabel = false
   showEdit = false
   # editURL = "https://github.com/username/repo/"
   editAppendPath = true
@@ -47,7 +47,7 @@ headerlogo = "/assets/profile_picture.png"
   showTaxonomies = false
   showWordCount = false
   showComments = false
-  # sharingLinks = ["facebook", "twitter", "pinterest", "reddit", "linkedin", "email"]
+  sharingLinks = ["facebook", "twitter", "pinterest", "reddit", "linkedin", "email"]
 
 [list]
   showBreadcrumbs = false
