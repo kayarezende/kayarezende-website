@@ -8,8 +8,8 @@ thumbnail: "AITracksyouusingWIFI\thumb.jpg"
 
 ---
 
-<span style="color:#00FFFF">We now have the technology, to track where you are in your own home, using WIFI signals.</span>
-
+# AI tracks you, in your home, using WIFI signals.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eH9_opVIROU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 The researchers at Carnegie Mellon University have developed technology to detect three-dimensional shapes and movements of human bodies utilizing WIFI routers.
 
