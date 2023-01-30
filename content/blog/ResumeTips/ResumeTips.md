@@ -7,7 +7,17 @@ description: ""
 
 # The Top 5 mistakes people make on their Resume
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JYSWdD37IBI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<style>
+@media only screen and (max-width: 600px) {
+  .responsive-video {
+    width: 100%;
+    height: auto;
+  }
+}
+</style>
+<div style="position: relative; overflow: hidden; padding-bottom: 56.25%; height: 0;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/JYSWdD37IBI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## Grammar and punctuation 
 
