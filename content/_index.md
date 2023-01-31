@@ -64,7 +64,7 @@ Button
 </style>
 
 {{< lead >}}
-**Read my blog, join the mailing list, or book a consult**
+**Read my blog, join the mailing list, or book a consult.**
 
 {{< /lead >}}
 
