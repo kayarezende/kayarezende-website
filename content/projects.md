@@ -5,10 +5,13 @@ draft: false
 description: "Current projects"
 ---
 
-## Projects in progress:
-- Online Cyber Security Learning platform
 
-## Completed Projects:
+<h3>PursueCyberSecurity.com</h3>
+Cyber Security Learning platform for breaking into the industry.
+<bl></bl>
 
-- Moodle LMS setup on AWS
-- kayarezende.com website
+<h3>kayarezende.com</h3>
+Personal portfolio website & blog. 
+<bl></bl>
+
+<h3>More soon.</h3>
