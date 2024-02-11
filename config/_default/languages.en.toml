@@ -13,7 +13,7 @@ dateFormat = "2 January 2006"
 [author]
 name = "Kaya Rezende"
 image = "img/WIN_20210715_13_02_12_Pro.jpg"
-headline = "Cyber Security Professional"
+headline = "Serial Entrepreneur"
 bio = "A little bit about you"
 links = [
       #{ email = "mailto:contact@kayarezende.com" },
